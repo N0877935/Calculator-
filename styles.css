@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.inputOutput {
+    background-color: grey;
+    height: 100px;
+    width: 400px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+}
+
+.inputOutput a {
+    font-size:x-large;
+    font-weight: 600;
+    color: white;
+    padding: 10px;
+}
+
+button {
+    width: 100px;
+    height: 100px;
+    font-size: large;
+    font-weight: 700;
+}
